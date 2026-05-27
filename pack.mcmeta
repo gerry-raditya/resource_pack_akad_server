@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": "\u00A763D Akad Pack\n\u00A78v1.20A ",
+		"supported_formats":[63,88.0],
+        "pack_format": 88.0,
+		"min_format": 63,
+		"max_format": 88.0
+    }
+}

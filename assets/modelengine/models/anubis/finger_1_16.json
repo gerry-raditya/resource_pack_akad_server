@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/anubis"},"elements":[{"from":[18.85,-1.0,5.35],"to":[20.65,0.5,5.35],"faces":{"south":{"uv":[6.125,12.25,6.375,12.5],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[3.75,11.875,4.0,12.125],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

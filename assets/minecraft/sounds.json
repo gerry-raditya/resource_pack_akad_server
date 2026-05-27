@@ -1,0 +1,52 @@
+{
+    "anubis.roar": {
+      "sounds": [
+        "anubis/roar"
+      ]
+    },
+    "anubis.sandstorm": {
+      "sounds": [
+        "anubis/sandstorm"
+      ]
+    },
+    "anubis.step1": {
+      "sounds": [
+        "anubis/step1"
+      ]
+    },
+    "anubis.step2": {
+      "sounds": [
+        "anubis/step2"
+      ]
+    },
+    "anubis.block": {
+      "sounds": [
+        "anubis/block"
+      ]
+    },
+    "anubis.swing": {
+      "sounds": [
+        "anubis/swing"
+      ]
+    },
+    "anubis.jump": {
+      "sounds": [
+        "anubis/jump"
+      ]
+    },
+    "anubis.land": {
+      "sounds": [
+        "anubis/land"
+      ]
+    },
+    "anubis.heart": {
+      "sounds": [
+        "anubis/heart"
+      ]
+    },
+    "anubis.bite": {
+      "sounds": [
+        "anubis/bite"
+      ]
+    }
+}

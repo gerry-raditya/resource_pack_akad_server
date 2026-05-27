@@ -1,0 +1,4 @@
+v1.20
+- added Vaelith
+- fixed shields (vanilla)
+- changed "Iron Hay Sickle" to "Iron Hay Scythe"
